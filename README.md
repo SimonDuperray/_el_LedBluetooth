@@ -12,11 +12,13 @@ Control a led via an mobile application with HC-05 module to communicate via blu
 <br><br>[![hc05.jpg](https://i.postimg.cc/MH1qtyQZ/hc05.jpg)](https://postimg.cc/JH7fzHxS)<br><br>
 [![appinventor.png](https://i.postimg.cc/nhjTW0L1/appinventor.png)](https://postimg.cc/w1zhy5Lt)<br><br>	
 [![blth1.png](https://i.postimg.cc/fyRffvFm/blth1.png)](https://postimg.cc/xJBm0L91)<br><br>
+[![connect.png](https://i.postimg.cc/FRDjzLRR/connect.png)](https://postimg.cc/yg3JrW04)<br><br>
   
 ## :computer: Technologies
 LedAndBluetooth is created with:
 * Arduino
 * C++
+* Bluetooth
 	
 ## :cd: Setup
 Clone these files anywhere and browse the code.
